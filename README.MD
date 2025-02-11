@@ -19,13 +19,10 @@ cd lost-found-api
 ### 2️- Install Dependencies
 
 Make sure you have **Node.js** installed, then install the required dependencies:
-
-```bash
-npm install
+-npm install
 
 ### 3- Configure .env file
 Kindly change the PORT , MONGO_URL and JWT_SECRET in the .env file according to your needs
-```
 
 ### 4- Set Up MongoDB
 
