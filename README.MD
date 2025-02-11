@@ -110,3 +110,9 @@ git commit -m "<your_commit_message>"
 **9.** Push your local commits to the remote repository:
 
 ```bash
+git push origin YourBranchName
+```
+
+**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
+**11.** **Congratulations!** You've made your first contribution! 🙌🏼
