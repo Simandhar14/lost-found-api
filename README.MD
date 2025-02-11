@@ -13,7 +13,7 @@ A Node.js + Express + MongoDB API for managing lost and found items. This projec
 ### 1️- Clone the Repository
 
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/lost-found-api.git
+git clone https://github.com/<your-github-username>/lost-found-api.git
 cd lost-found-api
 
 ### 2️- Install Dependencies
